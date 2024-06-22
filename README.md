@@ -18,18 +18,25 @@ Tasks To Be Performed:-
  1. Data Analysis:-
 
  a. Import the dataset
+ 
  b. Get information about the dataset (mean, max, min, quartiles etc.)
+ 
  c. Find the correlation between all fields
  
  2. Data Visualization:-
 
- a. Visualize the number of patients having a heart disease and not having
- a heart disease
+ a. Visualize the number of patients having a heart disease and not having a heart disease
+ 
  b. Visualize the age and whether a patient has disease or not
+ 
  c. Visualize correlation between all features using a heat map
+ 
  3. Logistic Regression:-
  
  a. Build a simple logistic regression model:-
+ 
  i. Divide the dataset in 70:30 ratio
+ 
  ii. Build the model on train set and predict the values on test set
+ 
  iii. Build the confusion matrix and get the accuracy score
